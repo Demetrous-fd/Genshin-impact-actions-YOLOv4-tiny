@@ -1,4 +1,4 @@
-# Genshin inpact actions YOLOv4-tiny
+# Genshin impact actions YOLOv4-tiny
 <img src="actions.jpg"/>
 
 ### Classes list:
